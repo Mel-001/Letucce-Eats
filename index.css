@@ -78,7 +78,13 @@ box {
     background-color: white;
 
 }
-
+.box2 {
+    width: 25%;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    background-color: white;
+}
 
 
 
