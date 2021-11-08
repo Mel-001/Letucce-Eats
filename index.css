@@ -120,6 +120,27 @@ box {
     --height: 3px;
     background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
 }
+holder3>.reviews>h2 {
+    padding-top: 200px;
+}
+
+.holder3>.reviews>h3 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.holder3>.reviews>p {
+    line-height: 30px;
+}
+
+.holder3>.reviews>.bold {
+    font-size: 20px;
+}
+
+.arrange {
+    text-align: center;
+}
+
 
 
 
