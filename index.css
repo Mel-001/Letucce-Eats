@@ -112,6 +112,14 @@ box {
     background-color: black;
     color: white;
     text-align: center;
+}
+.rule {
+    --position: center bottom;
+    --width: 100px;
+    --color: white;
+    --height: 3px;
+    background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+}
 
 
 
