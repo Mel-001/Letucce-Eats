@@ -107,7 +107,11 @@ box {
 .holder3 {
     display: flex;
 }
-
+.reviews{
+    width: 50%;
+    background-color: black;
+    color: white;
+    text-align: center;
 
 
 
