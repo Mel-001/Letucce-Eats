@@ -7,6 +7,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .holder1{
     height: 50em;
 }
@@ -16,7 +17,8 @@ header {
     background: rgba(0, 0, 0, 0.5);
     height: 120px;
 }
- li,a,button {
+
+li,a,button {
     font-family: 'roboto';
     font-weight: 500;
     font-size: 16px;
@@ -24,19 +26,20 @@ header {
     text-decoration: none;
 }
 
-
 .holder1 h3 {
     color: #fff;
     padding-top: 10rem;
     padding-left: 6rem;
     line-height: 2rem;
 }
+
 .ord button {
     padding-top: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
     margin-left: 5rem;
 }
+
 header {
     display: flex;
     justify-content: space-between;
@@ -54,22 +57,26 @@ li {
     display: flex;
     float: right;
 }
+
 .nav_links li a {
     transition: all 0.3s ease 0s;
 }
 
-.nav .orange-background{
+.orange-background{
     color: #F19201;
 }
+
 .holder2 {
     height: 50em;
     padding: 1.5rem;
     text-align: center;
     background-color: #E1DFDF;
 }
-box {
+
+.box {
     display: flex;
 }
+
 .box1 {
     width: 25%;
     height: 400px;
@@ -78,6 +85,7 @@ box {
     background-color: white;
 
 }
+
 .box2 {
     width: 25%;
     margin-left: 80px;
@@ -85,12 +93,14 @@ box {
     margin-top: 50px;
     background-color: white;
 }
+
 .box3{
     width: 25%;
     margin-right: 80px;
     margin-top: 50px;
     background-color: white;
 }
+
 .radius {
     border-radius: 50%;
     width: 34px;
@@ -104,15 +114,19 @@ box {
     text-align: center;
     font: 32px 'Roboto';
 }
+
 .holder3 {
     display: flex;
 }
+
 .reviews{
     width: 50%;
     background-color: black;
     color: white;
     text-align: center;
+
 }
+
 .rule {
     --position: center bottom;
     --width: 100px;
@@ -120,7 +134,8 @@ box {
     --height: 3px;
     background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
 }
-holder3>.reviews>h2 {
+
+.holder3>.reviews>h2 {
     padding-top: 200px;
 }
 
@@ -140,12 +155,14 @@ holder3>.reviews>h2 {
 .arrange {
     text-align: center;
 }
+
 .holder4 {
     width: 100%;
     height: 80em;
     padding: 1.5rem;
     background-color: #E5E5E5;
 }
+
 .mnu1 {
     width: 750px;
     height: 400px;
@@ -291,6 +308,11 @@ holder3>.reviews>h2 {
     object-fit: cover;
     display: block;
 }
+
+
+
+
+
 .holder5 {
     width: 100%;
     height: 45em;
@@ -312,12 +334,14 @@ holder3>.reviews>h2 {
     font-weight: 600;
     padding: 60px;
 }
+
 .book {
     box-sizing: border-box;
     width: 250px;
     margin-left: 800px;
     border: 3px solid white;
 }
+
 .holder6 {
     padding: 1.5rem;
     height: 6em;
@@ -330,20 +354,3 @@ holder3>.reviews>h2 {
     padding-top: 20px;
     font-weight: 500;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
