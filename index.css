@@ -7,3 +7,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.holder1{
+    height: 50em;
+}
+
+header {
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+    height: 120px;
+}
