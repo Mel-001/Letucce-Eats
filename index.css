@@ -104,7 +104,9 @@ box {
     text-align: center;
     font: 32px 'Roboto';
 }
-
+.holder3 {
+    display: flex;
+}
 
 
 
