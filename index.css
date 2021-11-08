@@ -1,0 +1,9 @@
+* {
+    font-family: 'roboto';
+}
+
+.background-image {
+    background-image: url(images/image2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
