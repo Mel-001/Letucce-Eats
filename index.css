@@ -140,7 +140,12 @@ holder3>.reviews>h2 {
 .arrange {
     text-align: center;
 }
-
+.holder4 {
+    width: 100%;
+    height: 80em;
+    padding: 1.5rem;
+    background-color: #E5E5E5;
+}
 
 
 
