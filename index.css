@@ -63,9 +63,16 @@ li {
 }
 
 .orange-background{
-    color: #F19201;
+    margin-left: 100px;
 }
-
+.title-moringa{
+    background-color: #F19201;
+    margin-right: 390px;
+}
+button{
+    background-color: #F19201;
+    border: none;
+}
 .holder2 {
     height: 50em;
     padding: 1.5rem;
@@ -323,7 +330,13 @@ li {
     text-align: center;
     color: white;
 }
-
+.holder5>p{
+    box-sizing: border-box;
+    width: 250px;
+    border: 3px solid white;
+    text-align: center; 
+ 
+}
 .holder5>h3 {
     padding-top: 200px;
     font-weight: 500;
@@ -338,7 +351,7 @@ li {
 .book {
     box-sizing: border-box;
     width: 250px;
-    margin-left: 800px;
+    margin-left: 650px;
     border: 3px solid white;
 }
 
