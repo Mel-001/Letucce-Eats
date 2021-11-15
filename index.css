@@ -206,9 +206,10 @@ button{
 }
 
 .ksh {
-    padding-left: 3rem;
+    padding-left:0rem;
     font-size: 20px;
     font-weight: bolder;
+    
 }
 
 
