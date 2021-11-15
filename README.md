@@ -1,5 +1,5 @@
 
-#LETUCE EAT
+LETUCE EAT
 
 Description
 This is a website that shows the Letuce Eat restaurant. It shows all the activities in the restaurant.
